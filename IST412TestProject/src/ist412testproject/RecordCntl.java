@@ -9,7 +9,7 @@ public class RecordCntl
 {
     
     
-    public void getRecord()
+    public void getRecord(PatientRecord patientRecord)
     {
         
     }

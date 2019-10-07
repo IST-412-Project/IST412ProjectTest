@@ -7,13 +7,13 @@ public class ManageCntl
         
     }
     
-    public PatientRecord createRecord(Physician physician, Surgeon surgeon, PhysicianAssistant physicianAssistant)
+    public void createRecord(Physician physician, Surgeon surgeon, PhysicianAssistant physicianAssistant)
     {
-        return;
+
     }
     
     public void addRecord(PatientRecord patientRecord)
     {
-        patientRecord = PatientRecord();
+        
     }
 }

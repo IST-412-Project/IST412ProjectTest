@@ -6,4 +6,9 @@ public class EmergencyCntl
     {
         
     }
+    
+    public void addRecord()
+    {
+        
+    }
 }
